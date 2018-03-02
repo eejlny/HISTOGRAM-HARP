@@ -25,6 +25,8 @@ SOFTWARE.
 * date      : 1 October 2017
 * blog: https://highlevel-synthesis.com/
 */
+/*Intel adaptation started by Jose Nunez-Yanez ENEAC project*/
+
 #include "../host/histogram.h"
 
 
